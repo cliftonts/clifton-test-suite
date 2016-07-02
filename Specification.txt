@@ -1,0 +1,16 @@
+required features
+-----------------
+single program, ability to determine OS and configure. (possibly save required file paths in a cfg file upon install. when
+loading attempt to load both Linux and windows cfg files and see which exists.)
+extendible file formats, store in a set directory and scan them in turn for a match when parsing data.
+ability to choose which fields are saved to csv
+support for ascii 
+support for SSS 
+support for gar SSS (Apollo range)
+make a donation button
+submit a data file for development option
+
+
+future possible features
+------------------------
+online storage of data, each user gets an account and can create limited access for customers.
